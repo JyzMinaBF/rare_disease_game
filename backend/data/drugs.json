@@ -1,0 +1,98 @@
+[
+  {
+    "id": "SMA_Zolgensma",
+    "name": "Zolgensma 基因治療",
+    "disease": "脊髓性肌肉萎縮症 (SMA I型，2 歲以下)",
+    "cost": 490,
+    "qaly": 25,
+    "launch_round": 1
+  },
+  {
+    "id": "VHL_Welireg",
+    "name": "Welireg 口服藥",
+    "disease": "逢希伯-林道症候群（Von Hippel-Lindau，VHL）",
+    "cost": 200,
+    "qaly": 18,
+    "launch_round": 1
+  },
+  {
+    "id": "SMA_Evrysdi",
+    "name": "Evrysdi 口服溶液",
+    "disease": "SMA 全年齡維持療法",
+    "cost": 100,
+    "qaly": 12,
+    "launch_round": 1
+  },
+  {
+    "id": "AHUS_Ultomiris",
+    "name": "Ultomiris 補體抑制劑",
+    "disease": "非典型溶血性尿毒症 (aHUS)",
+    "cost": 150,
+    "qaly": 18,
+    "launch_round": 1
+  },
+  {
+    "id": "CIDP_Panzyga",
+    "name": "Panzyga 靜脈免疫球蛋白",
+    "disease": "慢性發炎性脫髓鞘多發性神經病變 (CIDP)",
+    "cost": 80,
+    "qaly": 8,
+    "launch_round": 1
+  },
+  {
+    "id": "FABRY_Galafold",
+    "name": "Galafold 酵素穩定劑",
+    "disease": "法布瑞氏症 (Fabry)",
+    "cost": 90,
+    "qaly": 6,
+    "launch_round": 2
+  },
+  {
+    "id": "POMPE_Myozyme",
+    "name": "Myozyme 酵素替代",
+    "disease": "龐貝氏症 (Pompe，嬰兒型)",
+    "cost": 400,
+    "qaly": 20,
+    "launch_round": 3
+  },
+  {
+    "id": "GAUCHER_Cerezyme",
+    "name": "Cerezyme 酵素替代",
+    "disease": "高雪氏症 (Gaucher)",
+    "cost": 150,
+    "qaly": 10,
+    "launch_round": 4
+  },
+  {
+    "id": "NMO_Uplizna",
+    "name": "Uplizna B‐cell 抑制劑",
+    "disease": "視神經脊髓炎光譜 (NMO)",
+    "cost": 70,
+    "qaly": 12,
+    "launch_round": 5
+  },
+  {
+    "id": "AADC_Kebilidi",
+    "name": "Kebilidi 基因療法",
+    "disease": "胺基酸脫羧酶缺乏症（AADC缺乏症）",
+    "cost": 350,
+    "qaly": 10,
+    "launch_round": 6
+  },
+  {
+    "id": "CLN2_Brinzepine",
+    "name": "Brinzepine 腦室注射",
+    "disease": "CLN2 兒童腦白質退化症",
+    "cost": 200,
+    "qaly": 22,
+    "launch_round": 7
+  },
+  {
+    "id": "IPF_Ofev",
+    "name": "Ofev 抗纖維化膠囊",
+    "disease": "特發性肺纖維化 (IPF)",
+    "cost": 400,
+    "qaly": 11,
+    "launch_round": 8
+  }
+]

@@ -1,0 +1,123 @@
+[
+    {
+      "id": "case_sma_001",
+      "drug_id": "SMA_Zolgensma",
+      "text": "粉紅髮圈的小柔才 11 個月，卻已無法抬頭。醫師說若能在她滿 2 歲前打上 Zolgensma，她或許能學會奔跑。媽媽握著她軟軟的小手，哭著說：『我只想聽她喊一次──媽媽。』",
+      "penalty": 12,
+      "death_chance": 0.9,
+      "death_penalty": 18,
+      "trust_gain": 4,
+      "launch_round": 1
+    },
+    {
+      "id": "case_vhl_001",
+      "drug_id": "VHL_Welireg",
+      "text": "40歲的小妍被診斷出VHL後，每天都覺得自己像個定時炸彈，隨時會被腫瘤引爆，現在，全新的口服藥將極有可能成為他未來穩定人生的救星。",
+      "penalty": 7,
+      "death_chance": 0.04,
+      "death_penalty": 12,
+      "trust_gain": 3,
+      "launch_round": 1
+    },
+    {
+      "id": "case_sma_003",
+      "drug_id": "SMA_Evrysdi",
+      "text": "26 歲的筱萱曾是街舞社 C 位，如今必須每天吞服價格高昂的 Evrysdi以防止肌肉繼續萎縮，只求能繼續自拍跳舞片。『我不怕輪椅，我怕的是粉絲留言──妳怎麼不見了？』",
+      "penalty": 15,
+      "death_chance": 0.05,
+      "death_penalty": 20,
+      "trust_gain": 7,
+      "launch_round": 1
+    },
+    {
+      "id": "case_ahus_001",
+      "drug_id": "AHUS_Ultomiris",
+      "text": "1 歲女嬰以恩的血像草莓牛奶般泛紅，腎臟急速衰竭。爸爸簽同意書時手抖到無法寫字：『拜託…幫我擋住那把破壞她免疫的刀。』Ultomiris 是他們唯一的盾牌。",
+      "penalty": 12,
+      "death_chance": 0.20,
+      "death_penalty": 18,
+      "trust_gain": 4,
+      "launch_round": 1
+    },
+    {
+      "id": "case_cidp_001",
+      "drug_id": "CIDP_Panzyga",
+      "text": "阿財本是卡車司機，罹患 CIDP 後逐日麻痺，如今只能握著方向盤做復健。『再給我一次把貨送到的尊嚴。』免疫球蛋白滴注或許能把陽光帶回他的早晨。",
+      "penalty":3,
+      "death_chance": 0.02,
+      "death_penalty": 6,
+      "trust_gain": 2,
+      "launch_round": 1
+    },
+    {
+      "id": "case_fabry_001",
+      "drug_id": "FABRY_Galafold",
+      "text": "37 歲的吉他教師佑廷總在課堂上忍著燒灼般的四肢疼痛。『我怕有天撥不響六條弦。』Galafold 每顆 8 千元的膠囊，是他對音樂最後的執著。",
+      "penalty": 4,
+      "death_chance": 0.05,
+      "death_penalty": 8,
+      "trust_gain": 2,
+      "launch_round": 2
+    },
+    {
+      "id": "case_pompe_001",
+      "drug_id": "POMPE_Myozyme",
+      "text": "小王子浩翔四肢腫脹，心臟像塞滿棉絮般無力。醫護在保溫箱貼上紙皇冠──因為他是罕病病房最勇敢的嬰兒。Myozyme 2 週一次灌注，王子才能撐到第一個生日。",
+      "penalty": 12,
+      "death_chance": 0.9,
+      "death_penalty": 18,
+      "trust_gain": 5,
+      "launch_round": 3
+    },
+    {
+      "id": "case_gaucher_001",
+      "drug_id": "GAUCHER_Cerezyme",
+      "text": "退休里長文山伯過去替左鄰右舍跑前跑後，如今肝脾腫大，站 10 分鐘就冒冷汗。『身體像塞滿濕泥。』他盼著酵素補充能再讓他站在里民中心門口說聲早安。",
+      "penalty": 12,
+      "death_chance": 0.10,
+      "death_penalty": 19,
+      "trust_gain": 4,
+      "launch_round": 4
+    },
+    {
+      "id": "case_nmo_001",
+      "drug_id": "NMO_Uplizna",
+      "text": "大學畫室裡，視神經脊髓炎奪走美術系麗菁的顏色。『眼前剩一團灰，但我還想辦畢業展。』Uplizna 能否替她守住最後一束光？",
+      "penalty": 6,
+      "death_chance": 0.03,
+      "death_penalty": 10,
+      "trust_gain": 3,
+      "launch_round": 5
+    },
+    {
+      "id": "case_aadc_001",
+      "drug_id": "AADC_Kebilidi",
+      "text": "才一歲半的小太陽在五個月的時候被診斷出患有AADC，現在的他每3到4天就會出現長達數小時的雙眼上翻且肩頸肌肉痙攣，醫生說，新研發的Kebilidi是小太陽人生中最後的太陽了。",
+      "penalty": 12,
+      "death_chance": 0.4,
+      "death_penalty": 18,
+      "trust_gain": 5,
+      "launch_round": 6
+    },
+    {
+      "id": "case_cln2_001",
+      "drug_id": "CLN2_Brinzepine",
+      "text": "8 歲語言天才芮芮本可朗誦莎翁，卻因 CLN2 腦部退化而逐字消失。媽媽播放她兩歲時的錄音：『To be, or not to be…』藥液若不及時注入腦室，她將再也說不出後半句。",
+      "penalty": 13,
+      "death_chance": 0.1,
+      "death_penalty": 22,
+      "trust_gain": 4,
+      "launch_round": 7
+    },
+    {
+      "id": "case_ipf_001",
+      "drug_id": "IPF_Ofev",
+      "text": "退休登山客阿順以為自己只是上坡喘，醫師卻指著 X 光片『那是被玻璃纖維緊箍住的肺。』Ofev 455 萬一年的藥費，或許能讓他再踏一次玉山主峰。",
+      "penalty": 6,
+      "death_chance": 0.12,
+      "death_penalty": 10,
+      "trust_gain": 3,
+      "launch_round": 8
+    }
+  ]
+  
